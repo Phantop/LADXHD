@@ -416,7 +416,7 @@ namespace ProjectZ.InGame.GameSystems
             {
 #if WINDOWS
                 // show the error message instead of just crashing the game
-                MessageBox.Show(exception.StackTrace, exception.Message, MessageBoxButtons.OK, MessageBoxIcon.Error);
+                System.Windows.Forms.MessageBox.Show(exception.StackTrace, exception.Message, MessageBoxButtons.OK, MessageBoxIcon.Error);
 #endif
                 throw;
             }

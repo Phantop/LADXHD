@@ -55,7 +55,7 @@ namespace ProjectZ.InGame.SaveLoad
 
 #if WINDOWS
             // @TODO: this is bad; maybe try to write the file into another directory?
-            MessageBox.Show("Error while saving", "Saving Failed", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            System.Windows.Forms.MessageBox.Show("Error while saving", "Saving Failed", MessageBoxButtons.OK, MessageBoxIcon.Error);
 #endif
         }
 
