@@ -42,7 +42,7 @@
     <DotnetCommand Condition="'$(DotnetCommand)' == ''">dotnet</DotnetCommand>
     <EnableMGCBItems Condition="'$(EnableMGCBItems)' == ''">true</EnableMGCBItems>
     <StartupObject>ProjectZ.Program</StartupObject>
-    <AssemblyName>Link's Awakening DX HD</AssemblyName>
+    <AssemblyName>LADXHD</AssemblyName>
     <PublishSingleFile>true</PublishSingleFile>
     <ApplicationIcon>Resources\Icon.ico</ApplicationIcon>
     <ApplicationManifest>app.manifest</ApplicationManifest>

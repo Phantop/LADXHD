@@ -1,4 +1,4 @@
-# Link's Awakening DX HD
+# LADX
 Dive into the enchanting world of The Legend of Zelda: Link's Awakening DX as you've never experienced it before, with this meticulously crafted PC version that breathes new life into this classic adventure. Immerse yourself in the nostalgia of Koholint Island with enhanced graphics and widescreen support, bringing the charming landscapes and characters to vivid detail on your modern PC display.
 
 But that's not all – we've turbocharged the gameplay with high framerate support, ensuring that every sword swing, puzzle solve, and enemy encounter feels smoother and more responsive than ever. Rediscover the magic of this timeless Zelda title with improved performance, letting you explore dungeons, uncover secrets, and engage in epic battles with unparalleled fluidity.
